@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 8b7bf6faec7858e4181b31e26987d74c
+timeCreated: 1449890566
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cubone
+    100004: EndFeeler
+    100006: EndFeelerA
+    100008: EndHead
+    100010: EndHips
+    100012: EndLFingerA2
+    100014: EndLFingerB
+    100016: EndLFoot
+    100018: EndLHand
+    100020: EndLToe
+    100022: EndRFingerA2
+    100024: EndRFingerB
+    100026: EndRFoot
+    100028: EndRHand
+    100030: EndRToe
+    100032: EndTail2
+    100034: Feeler
+    100036: FeelerA
+    100038: Head
+    100040: Hips
+    100042: LArm
+    100044: LFingerA1
+    100046: LFingerA2
+    100048: LFingerB
+    100050: LFoot
+    100052: LForeArm
+    100054: LHand
+    100056: LLeg
+    100058: LShoulder
+    100060: LThigh
+    100062: LToe
+    100064: Neck
+    100066: Origin
+    100068: pm0104_00
+    100070: pm0104_00_BodySkin
+    100072: pm0104_00_HeadSkin
+    100074: pm0104_00_WeaponSkin
+    100076: RArm
+    100078: RFingerA1
+    100080: RFingerA2
+    100082: RFingerB
+    100084: RFoot
+    100086: RForeArm
+    100088: RHand
+    100090: RLeg
+    100092: RShoulder
+    100094: RThigh
+    100096: RToe
+    100098: Spine1
+    100100: Spine2
+    100102: Tail1
+    100104: Tail2
+    100106: Waist
+    400000: //RootNode
+    400002: Cubone
+    400004: EndFeeler
+    400006: EndFeelerA
+    400008: EndHead
+    400010: EndHips
+    400012: EndLFingerA2
+    400014: EndLFingerB
+    400016: EndLFoot
+    400018: EndLHand
+    400020: EndLToe
+    400022: EndRFingerA2
+    400024: EndRFingerB
+    400026: EndRFoot
+    400028: EndRHand
+    400030: EndRToe
+    400032: EndTail2
+    400034: Feeler
+    400036: FeelerA
+    400038: Head
+    400040: Hips
+    400042: LArm
+    400044: LFingerA1
+    400046: LFingerA2
+    400048: LFingerB
+    400050: LFoot
+    400052: LForeArm
+    400054: LHand
+    400056: LLeg
+    400058: LShoulder
+    400060: LThigh
+    400062: LToe
+    400064: Neck
+    400066: Origin
+    400068: pm0104_00
+    400070: pm0104_00_BodySkin
+    400072: pm0104_00_HeadSkin
+    400074: pm0104_00_WeaponSkin
+    400076: RArm
+    400078: RFingerA1
+    400080: RFingerA2
+    400082: RFingerB
+    400084: RFoot
+    400086: RForeArm
+    400088: RHand
+    400090: RLeg
+    400092: RShoulder
+    400094: RThigh
+    400096: RToe
+    400098: Spine1
+    400100: Spine2
+    400102: Tail1
+    400104: Tail2
+    400106: Waist
+    4300000: Cubone
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Cubone
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cubone
+        weight: 1
+      - path: pm0104_00
+        weight: 1
+      - path: pm0104_00/Origin
+        weight: 1
+      - path: pm0104_00/Origin/Waist
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips/EndHips
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips/LThigh
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips/LThigh/LLeg
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips/LThigh/LLeg/LFoot
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/EndLFoot
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe/EndLToe
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips/RThigh
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips/RThigh/RLeg
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips/RThigh/RLeg/RFoot
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/EndRFoot
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe/EndRToe
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips/Tail1
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips/Tail1/Tail2
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Hips/Tail1/Tail2/EndTail2
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/LShoulder
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand/EndLHand
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand/LFingerA1
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand/LFingerA1/LFingerA2
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand/LFingerA1/LFingerA2/EndLFingerA2
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand/LFingerB
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand/LFingerB/EndLFingerB
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/Neck
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/Neck/Head/EndHead
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/Neck/Head/Feeler
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/Neck/Head/Feeler/EndFeeler
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/RShoulder
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/EndRHand
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/FeelerA
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/FeelerA/EndFeelerA
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/RFingerA1
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/RFingerA1/RFingerA2
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/RFingerA1/RFingerA2/EndRFingerA2
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/RFingerB
+        weight: 1
+      - path: pm0104_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/RFingerB/EndRFingerB
+        weight: 1
+      - path: pm0104_00/pm0104_00_BodySkin
+        weight: 1
+      - path: pm0104_00/pm0104_00_HeadSkin
+        weight: 1
+      - path: pm0104_00/pm0104_00_WeaponSkin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
